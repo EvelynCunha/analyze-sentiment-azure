@@ -82,22 +82,22 @@ Durante a análise, percebi que o Azure AI tem uma boa capacidade de distinguir 
 Aqui estão algumas imagens do processo de análise no Azure:
 
 - **Print 1**: Tela de carregamento do arquivo de sentenças.
-- ![sentencas](git/images/sentencas.png)
+- ![sentencas](Git/images/sentencas.png)
   
 - **Print 2**: Resultados geral da análise de sentimentos.
-- ![resultado geral](git/images/resultadogeral.png)
+- ![resultado geral](Git/images/resultadogeral.png)
 
 - **Print 3**: Resultado individual das sentenças.
-- ![sentenca1](git/images/sentenca1.png)
-- ![sentenca2](git/images/sentenca2.png)
-- ![sentenca3](git/images/sentenca3.png)
-- ![sentenca4](git/images/sentenca4.png)
-- ![sentenca5](git/images/sentencs5.png)
-- ![sentenca6](git/images/sentenca6.png)
-- ![sentenca7](git/images/sentenca7.png)
-- ![sentenca8](git/images/sentenca8.png)
-- ![sentenca9](git/images/sentenca9.png)
-- ![sentenca9](git/images/sentenca9.png)
+- ![sentenca1](Git/images/sentenca1.png)
+- ![sentenca2](Git/images/sentenca2.png)
+- ![sentenca3](Git/images/sentenca3.png)
+- ![sentenca4](Git/images/sentenca4.png)
+- ![sentenca5](Git/images/sentencs5.png)
+- ![sentenca6](Git/images/sentenca6.png)
+- ![sentenca7](Git/images/sentenca7.png)
+- ![sentenca8](Git/images/sentenca8.png)
+- ![sentenca9](Git/images/sentenca9.png)
+- ![sentenca9](Git/images/sentenca9.png)
 
 ---
 
