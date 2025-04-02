@@ -92,12 +92,12 @@ Aqui estão algumas imagens do processo de análise no Azure:
 - ![sentenca2](Git/images/sentenca2.png)
 - ![sentenca3](Git/images/sentenca3.png)
 - ![sentenca4](Git/images/sentenca4.png)
-- ![sentenca5](Git/images/sentencs5.png)
+- ![sentenca5](Git/images/sentenca5.png)
 - ![sentenca6](Git/images/sentenca6.png)
 - ![sentenca7](Git/images/sentenca7.png)
 - ![sentenca8](Git/images/sentenca8.png)
 - ![sentenca9](Git/images/sentenca9.png)
-- ![sentenca9](Git/images/sentenca9.png)
+- ![sentenca10](Git/images/sentenca10.png)
 
 ---
 
